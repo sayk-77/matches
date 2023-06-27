@@ -1,0 +1,27 @@
+h1{
+    padding-top: 100px;
+    text-align: center;
+    color:#ED760E;
+}
+
+ul{
+    display: flex;
+    gap:0 50px;
+    justify-content: center;
+    padding-top: 150px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    color: #fff;
+    font-weight: 600;
+    background-color: #ED760E;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
